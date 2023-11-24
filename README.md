@@ -11,9 +11,7 @@
 
 ## Support (Sponsorship)
 
-As an open-source project, subscribing will not unlock any additional features in the app. However, it would serve as 
-an investment in the continuous evolution and improvement of the application. So, if you'd like to contribute 
-financially towards the efforts, please consider these options:
+If you'd like to contribute financially towards the efforts, please consider these options:
 
 * [Github Sponsorship](https://github.com/users/lyskouski/sponsorship)
 * [Paypal](https://www.paypal.me/terCAD)
