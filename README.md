@@ -5,6 +5,7 @@
 |---------|-------------|----------|
 | Kotlin (KMP)  | [Python (Kivy)](https://github.com/lyskouski/app-finance)| [Dart (Flutter)](https://github.com/lyskouski/app-finance)  |
 | Erlang (LiveView Native) | |
+| C# (.NET MAUI) | | 
 | JavaScript (Ext JS) | |
 | ? _propose_ | |
 
