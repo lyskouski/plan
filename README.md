@@ -15,9 +15,9 @@ An independent research of frameworks for platform-agnostic development.
 # Summary
 Rate is based on an interface support that is distributed as a part of SDK (10 .. -5; (+1) and (+2) for extensions), missing any extensions to solve it (-5 ... -10).
 
-| Update Date | Interfaces:| SRS | NLP | VUI | TTS | VA  | VB  | VR  | AR  | MR  | GUI | UX  | UI  | HF  |  GR | ET  |
-|-------------|------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 2023-11-25  | Flutter (Dart)               | -10 | -10 | -10 | -10 | -8  | -8  | -10 | -10 | -10 | 0   | 0   | 0   | -10 | -10 | -10 |
+| Update Date |       Interfaces:| SRS | NLP | VUI | TTS | VA  | VB  | VR  | AR  | MR  | GUI | UX  | UI  | HF  |  GR | ET  | TG  | TUI | VK  | TST+PR |
+|-------------|------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|--------|
+| 2023-11-25  | Flutter (Dart)   | -10 | -10 | -10 | -10 | -8  | -8  | -10 | -10 | -10 | 0   | 0   | 0   | -10 | -10 | -10 | 0   | 0   | -10 | -10    |
 
 
 |  Update Date | Platforms: | iOS | macOS | tvOS | visionOS | watchOS | Windows | Linux | Mainframe |
@@ -43,6 +43,12 @@ Graphical Interfaces:
 - Graphical User Interface (GUI): A type of user interface that allows users to interact with electronic devices through graphical elements such as icons, buttons, and menus.
 - User Experience (UX): The overall experience a user has while interacting with a system, including aspects like usability, accessibility, and aesthetics.
 - User Interface Design (UI Design): The process of designing the visual layout and interactive elements of a user interface.
+
+Touchscreen Interfaces:
+- Touch Gestures (TG): (tap) touching the screen briefly with a finger, (swipe) moving a finger across the screen in a specific direction, (pinch) using two fingers to zoom in or out by bringing them closer together or moving them apart, (rotate) turning two fingers in a circular motion to rotate an object; (multi-touch) the ability of a touchscreen to recognize and respond to multiple simultaneous touch points, enabling more complex gestures.
+- Touch User Interface (TUI): The overall design and layout of user interfaces optimized for touch interaction.
+- Virtual Keyboard (VK): An on-screen keyboard that appears when needed, allowing users to input text by tapping on the screen.
+- Touch-sensitive Stylus (TST) + Palm Rejection (PR): A digital pen or stylus that can be used on touchscreens, providing more precision than fingers. PR - technology that prevents unintended touch inputs from the palm of the hand when using a stylus.
 
 Others:
 - Haptic Feedback (HF): Technology that provides tactile sensations to users, enhancing the sense of touch in interfaces.
