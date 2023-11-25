@@ -15,12 +15,12 @@ An independent research of frameworks for platform-agnostic development.
 # Summary
 Rate is based on an interface support that is distributed as a part of SDK (10 .. -5; (+1) and (+2) for extensions), missing any extensions to solve it (-5 ... -10).
 
-| Update Date | Interfaces (maturity of API):| SRS | NLP | VUI | TTS | VA  | VB  | VR  | AR  | MR  | GUI | UX  | UI  | HF  |  GR | ET  |
+| Update Date | Interfaces:| SRS | NLP | VUI | TTS | VA  | VB  | VR  | AR  | MR  | GUI | UX  | UI  | HF  |  GR | ET  |
 |-------------|------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | 2023-11-25  | Flutter (Dart)               | -10 | -10 | -10 | -10 | -8  | -8  | -10 | -10 | -10 | 0   | 0   | 0   | -10 | -10 | -10 |
 
 
-|  Update Date | Platforms (maturity of API): | iOS | macOS | tvOS | visionOS | watchOS | Windows | Linux | Mainframe |
+|  Update Date | Platforms: | iOS | macOS | tvOS | visionOS | watchOS | Windows | Linux | Mainframe |
 |--------------|------------------------------|-----|-------|------|----------|---------|---------|-------|-----------|
 |  2023-11-25  | Flutter (Dart)               | 8   |  8    |  -10 | -10      | -8      | 8       | 5     | -10       |
 
