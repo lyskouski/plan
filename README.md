@@ -1,5 +1,4 @@
 # Platform-Agnostic Development
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) 
 
 An independent research of frameworks for platform-agnostic development.
 
@@ -70,16 +69,7 @@ If you'd like to contribute financially towards the efforts, please consider the
 
 Or, [treat me to :coffee:](https://www.buymeacoffee.com/lyskouski).
 
-Disclamer, your financial support 
-
-## Contributions
-
-Any made contribution **is greatly appreciated** (also, by mentioning in `Contributors` section, `Release` notes, and 
-in the app `About` - `Contributors` as a gratitude), check [Contribution Section](./CONTRIBUTING.md) for more details.
-
-However, if it's been chosen a contribution (not just typo corrections) to this repo, you agree that you're giving
-me a non-exclusive license to use that content, as I (and my possible team) deem appropriate. You probably guessed 
-that already, but I just wanted to be extra clear on that.
+Disclamer, your financial support won't anyhow affect the planned activities. None of you would be mentioned in my publications. But I need your assistance!
 
 ## License & Copyright
 
