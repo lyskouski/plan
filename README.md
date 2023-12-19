@@ -21,9 +21,9 @@ Rate is based on an interface support that is distributed as a part of SDK (10 .
 | 2023-11-25  | Flutter (Dart)   | -10 | -10 | -10 | -10 | -8  | -8  | -10 | -10 | -10 | 0   | 0   | 0   | -10 | -10 | -10 | 0   | 0   | -10 | -10    |
 
 
-|  Update Date | Platforms:                   | iOS | macOS | tvOS | visionOS | watchOS | Windows | Linux | Mainframe |
-|--------------|------------------------------|-----|-------|------|----------|---------|---------|-------|-----------|
-|  2023-11-25  | Flutter (Dart)               | 8   |  8    |  -10 | -10      | -5      | 8       | 5     | -10       |
+|  Update Date | Platforms:                   | Android | iOS | macOS | tvOS | visionOS | watchOS | Windows | Linux | Mainframe |
+|--------------|------------------------------|---------|-----|-------|------|----------|---------|---------|-------|-----------|
+|  2023-11-25  | Flutter (Dart)               | 8       | 6   |  7    |  -10 | -10      | -5      | 8       | 5     | -10       |
 
 _Notation: -10 {totally missing} ... 10 {strongly exists}_
  
