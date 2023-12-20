@@ -10,6 +10,9 @@ An independent research of frameworks for platform-agnostic development.
 | C# (.NET MAUI) | | |
 | JavaScript (Titanium SDK) | | |
 | C (GLFW) | | |
+| Rust (Tauri) | | |
+| C++ (Qt) | | |
+| Go (Wails.io) | | |
 | ? _propose_ | | |
 
 
