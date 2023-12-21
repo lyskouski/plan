@@ -73,7 +73,7 @@ If you'd like to contribute financially towards the efforts, please consider the
 
 Or, [treat me to :coffee:](https://www.buymeacoffee.com/lyskouski).
 
-**Disclamer:** your financial support won't anyhow affect the planned activities.
+**Disclamer:** your financial support won't anyhow affect the planned activities but might speedup them.
 
 ## License & Copyright
 
