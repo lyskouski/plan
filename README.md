@@ -3,17 +3,17 @@
 An independent research of frameworks for platform-agnostic development.
 
 
-| Backlog | On Hold | In Progress | Up Steam |
-|---------|-------------|-------------|----------|
-|   | [Python (Kivy)](https://github.com/lyskouski/app-finance)| [Kotlin (KMP)](https://github.com/lyskouski/app-entertainment) |  [Dart (Flutter)](https://github.com/lyskouski/app-finance)  |
-| Erlang (LiveView Native) | | |
-| C# (.NET MAUI) | | |
-| JavaScript (Titanium SDK) | | |
-| C (GLFW) | | |
-| Rust (Tauri) | | |
-| C++ (Qt) | | |
-| Go (Wails.io) | | |
-| ? _propose_ | | |
+| Backlog  | In Progress | Up Steam |
+|----------|-------------|----------|
+| [Python (Kivy)](https://github.com/lyskouski/app-finance)  | [Kotlin (KMP)](https://github.com/lyskouski/app-entertainment) |  [Dart (Flutter)](https://github.com/lyskouski/app-finance)  |
+| Erlang (LiveView Native) | |
+| C# (.NET MAUI) | |
+| JavaScript (Titanium SDK) | |
+| C (GLFW) | |
+| Rust (Tauri) | |
+| C++ (Qt) | |
+| Go (Wails.io) | |
+| ? _propose_ | |
 
 
 # Summary
