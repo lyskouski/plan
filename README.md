@@ -13,7 +13,7 @@ An independent research of frameworks for platform-agnostic development.
 | Rust (Tauri) | |
 | C++ (Qt) | |
 | Go (Wails.io) | |
-| ? _propose_ | |
+| [(?) _propose_](https://github.com/lyskouski/plan/issues/1) | |
 
 
 # Summary
