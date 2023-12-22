@@ -14,6 +14,7 @@ An independent research of frameworks for platform-agnostic development.
 | C++ (Qt) | |
 | Go (Wails.io) | |
 | Java (libGDX [or] Codename One) | |
+| Delphi (FMX) | |
 | [(?) _propose_](https://github.com/lyskouski/plan/issues/1) | |
 
 
