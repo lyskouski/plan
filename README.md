@@ -13,7 +13,7 @@ An independent research of frameworks for platform-agnostic development.
 | Rust (Tauri) | |
 | C++ (Qt) | |
 | Go (Wails.io) | |
-| Java (Codename One) | |
+| Java (libGDX) | |
 | [(?) _propose_](https://github.com/lyskouski/plan/issues/1) | |
 
 
