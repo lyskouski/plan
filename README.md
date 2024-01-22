@@ -8,7 +8,7 @@ An independent research of frameworks for platform-agnostic development.
 | [Python (Kivy)](https://github.com/lyskouski/app-finance)  | [Kotlin (KMP)](https://github.com/lyskouski/app-entertainment) |  [Dart (Flutter)](https://github.com/lyskouski/app-finance)  |
 | Erlang (LiveView Native) | |
 | C# (.NET MAUI) | |
-| JavaScript (Titanium SDK) | |
+| JavaScript (Titanium SDK [or] Ionic) | |
 | C (GLFW) | |
 | Rust (Tauri) | |
 | C++ (Qt) | |
