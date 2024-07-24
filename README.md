@@ -15,6 +15,7 @@ An independent research of frameworks for platform-agnostic development.
 | Go (Wails.io) | |
 | Java (libGDX [or] Codename One) | |
 | Delphi (FMX) | |
+| Swift (SKIP.tools) | |
 | [(?) _propose_](https://github.com/lyskouski/plan/issues/1) | |
 
 
