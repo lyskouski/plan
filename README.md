@@ -13,6 +13,7 @@ An independent research of frameworks for platform-agnostic development.
 | Rust (Tauri) | |
 | C++ (Qt) | |
 | Go (Wails.io) | |
+| Ruby (wxRuby3) | |
 | Java (libGDX [or] Codename One) | |
 | Delphi (FMX) | |
 | Swift (SKIP.tools) | |
