@@ -17,6 +17,7 @@ An independent research of frameworks for platform-agnostic development.
 | Java (libGDX [or] Codename One) | |
 | Delphi (FMX) | |
 | Swift (SKIP.tools) | |
+| Zig (Capy UI) | |
 | [(?) _propose_](https://github.com/lyskouski/plan/issues/1) | |
 
 
