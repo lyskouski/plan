@@ -10,7 +10,7 @@ An independent research of frameworks for platform-agnostic development.
 | PHP (NativePHP) | |
 | C# (.NET MAUI) | |
 | C (GLFW) | |
-| Rust (Tauri) | |
+| Rust (Tauri+Svelte) | |
 | C++ (Qt) | |
 | Go (Wails.io) | |
 | Ruby (Glimmer) | |
