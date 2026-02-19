@@ -7,8 +7,7 @@ An independent research of frameworks for platform-agnostic development.
 |----------|-------------|----------|
 | JavaScript (Apache Cordova) | [Kotlin (KMP)](https://github.com/lyskouski/app-entertainment) |  [Dart (Flutter)](https://github.com/lyskouski/app-finance)  |
 | Erlang (LiveView Native) | [Python (Kivy)](https://github.com/lyskouski/app-language) |
-| PHP (NativePHP) | |
-| C# (.NET MAUI) | |
+| C# (.NET MAUI) | [PHP (NativePHP)](https://github.com/lyskouski/app-game-fantasyland) | |
 | C (GLFW) | |
 | Rust (Dioxus) | |
 | C++ (Qt) | |
