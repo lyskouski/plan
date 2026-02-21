@@ -3,7 +3,7 @@
 An independent research of frameworks for platform-agnostic development.
 
 
-| Backlog  | In Progress | Up Steam |
+| Backlog  | In Progress | Up Stream |
 |----------|-------------|----------|
 | JavaScript (Apache Cordova) | [Kotlin (KMP)](https://github.com/lyskouski/app-entertainment) |  [Dart (Flutter)](https://github.com/lyskouski/app-finance)  |
 | Erlang (LiveView Native) | [Python (Kivy)](https://github.com/lyskouski/app-language) |
