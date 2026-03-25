@@ -17,6 +17,7 @@ An independent research of frameworks for platform-agnostic development.
 | Delphi (FMX) | |
 | Swift (SKIP.tools) | |
 | Zig (Capy UI) | |
+| Lua (Solar2D) | |
 | [(?) _propose_](https://github.com/lyskouski/plan/issues/1) | |
 
 
