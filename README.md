@@ -18,6 +18,7 @@ An independent research of frameworks for platform-agnostic development.
 | Swift (SKIP.tools) | |
 | Zig (Capy UI) | |
 | Lua (Solar2D) | |
+| Haxe (haxe.org) | |
 | [(?) _propose_](https://github.com/lyskouski/plan/issues/1) | |
 
 
