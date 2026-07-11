@@ -19,6 +19,7 @@ An independent research of frameworks for platform-agnostic development.
 | Zig (Capy UI) | |
 | Lua (Solar2D) | |
 | Haxe (haxe.org) | |
+| V ([VUI](https://github.com/vlang/ui)) | |
 | [(?) _propose_](https://github.com/lyskouski/plan/issues/1) | |
 
 
