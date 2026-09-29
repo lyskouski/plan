@@ -28,12 +28,14 @@ Rate is based on an interface support that is distributed as a part of SDK (10 .
 
 | Update Date |       Interfaces:| SRS | NLP | VUI | TTS | VA  | VB  | VR  | AR  | MR  | GUI | UX  | UI  | HF  |  GR | ET  | TG  | TUI | VK  | TST+PR |
 |-------------|------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|--------|
-| 2023-11-25  | Flutter (Dart)   | -10 | -10 | -10 | -10 | -8  | -8  | -10 | -10 | -10 | 0   | 0   | 0   | -10 | -10 | -10 | 0   | 0   | -10 | -10    |
+| 2023-11-25  | Flutter (Dart)   | -10 | -10 | -10 | -10 | -8  | -8  | -10 | -10 | -10 | 0   | 0   | 0   | -10 | -10 | -10 | 0   | 0   | 10 | -10     |
+| 2026-09-29  | Kivy (Python)    |   5 |   5 |   5 |   5 |  5  | -5  |   5 |   5 |   5 | -5  | -5  | -5  | -10 | -10 | -10 | -5  | -5  | 10 | -10     |      
 
 
 |  Update Date | Platforms:                   | Android | iOS | macOS | tvOS | visionOS | watchOS | Windows | Linux | Mainframe | Web |
 |--------------|------------------------------|---------|-----|-------|------|----------|---------|---------|-------|-----------|-----|
 |  2023-11-25  | Flutter (Dart)               | 8       | 6   |  7    |  -10 | -10      | -5      | 8       | 5     | -10       | 5   |
+|  2026-09-29  | Kivy (Python)                | 5       | 5   |  5    | -5   | -5       | -5      | 10      | 10    |  5        | -10 |
 
 _Notation: -10 {totally missing} ... 10 {strongly exists}_
  
@@ -53,7 +55,7 @@ Virtual Reality:
 Graphical Interfaces:
 - Graphical User Interface (GUI): A type of user interface that allows users to interact with electronic devices through graphical elements such as icons, buttons, and menus.
 - User Experience (UX): The overall experience a user has while interacting with a system, including aspects like usability, accessibility, and aesthetics.
-- User Interface Design (UI Design): The process of designing the visual layout and interactive elements of a user interface.
+- User Interface Design (UI): The process of designing the visual layout and interactive elements of a user interface.
 
 Touchscreen Interfaces:
 - Touch Gestures (TG): (tap) touching the screen briefly with a finger, (swipe) moving a finger across the screen in a specific direction, (pinch) using two fingers to zoom in or out by bringing them closer together or moving them apart, (rotate) turning two fingers in a circular motion to rotate an object; (multi-touch) the ability of a touchscreen to recognize and respond to multiple simultaneous touch points, enabling more complex gestures.
